@@ -1,2 +1,2 @@
-import turtle
-turtle.fd(10)
+import turtle as t
+t.fd(10)
